@@ -14,7 +14,7 @@ Se você quiser executar este projeto em sua própria máquina, siga estas etapa
 
 1. Clone o repositório:
 
-git clone [https://github.com/seu-usuario/seu-projeto.git](https://github.com/GuilhermeSantW/paginadereceita.git)https://github.com/GuilhermeSantW/paginadereceita.git
+git clone (https://github.com/GuilhermeSantW/paginadereceita.git)https://github.com/GuilhermeSantW/paginadereceita.git
 
 2. Abra o arquivo `index.html` em seu navegador.
 
