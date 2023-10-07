@@ -6,7 +6,7 @@ Este é um projeto simples onde criei uma página de receita de lasanha de carne
 
 ## Resultado
 
-Você pode ver o resultado final da minha página de receita [aqui]([https://guilhermesantw.github.io/paginadereceita/])). Nela, você encontrará todos os detalhes sobre como preparar uma lasanha de carne incrível. Espero que goste!
+Você pode ver o resultado final da minha página de receita [aqui](https://guilhermesantw.github.io/paginadereceita/). Nela, você encontrará todos os detalhes sobre como preparar uma lasanha de carne incrível. Espero que goste!
 
 ## Como usar
 
